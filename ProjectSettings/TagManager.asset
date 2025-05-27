@@ -7,6 +7,10 @@ TagManager:
   - Mortar
   - Herb
   - Pestle
+  - Sugar
+  - Stones
+  - Deerskin
+  - Kiln
   layers:
   - Default
   - TransparentFX
