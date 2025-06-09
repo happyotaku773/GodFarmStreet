@@ -11,6 +11,7 @@ TagManager:
   - Stones
   - Deerskin
   - Kiln
+  - Cft
   layers:
   - Default
   - TransparentFX
